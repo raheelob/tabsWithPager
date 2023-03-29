@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Cookpad-hiring-android-exercise</string>
+    <string name="collection_recipe_count">%s Recipe(s) Available.</string>
+    <string name="generic_error_message">Something has gone wrong!</string>
+    <string name="error">Error</string>
+    <string name="retry">Retry</string>
+    <string name="some_thing_went_wrong_try_hitting_the_request_again">Please try again</string>
+    <string name="recipe_collection">Recipe Collection</string>
+    <string name="you_don_t_have_any_favorites">You don\'t have any favorites</string>
+</resources>

@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "title": "Taste of Japan 🇯🇵",
+    "description": "A collection of the best recipes from the Cookpad Japan community, translated into English!",
+    "recipe_count": 19,
+    "preview_image_urls": [
+      "https://cookpad.github.io/global-mobile-hiring/images/recipes/5059448610488320.jpg",
+      "https://cookpad.github.io/global-mobile-hiring/images/recipes/37a38d56cc03bb8e.jpg",
+      "https://cookpad.github.io/global-mobile-hiring/images/recipes/4955414308323328.jpg",
+      "https://cookpad.github.io/global-mobile-hiring/images/recipes/6442345938550784.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Christmas Advent Calendar 🎄",
+    "description": "Each day we open to door on our Advent Calendar to reveal a special ingredient for the festive period. Join in and take part in the fun.",
+    "recipe_count": 11,
+    "preview_image_urls": [
+      "https://cookpad.github.io/global-mobile-hiring/images/recipes/b20b538510e28441.jpg",
+      "https://cookpad.github.io/global-mobile-hiring/images/recipes/3b44763286ff7c7e.jpg",
+      "https://cookpad.github.io/global-mobile-hiring/images/recipes/ec6d41e9fc750feb.jpg",
+      "https://cookpad.github.io/global-mobile-hiring/images/recipes/7e25471083db6d3a.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Greek Getaway 🇬🇷",
+    "description": "Learn how to cook like a Greek! A collection of the best traditional Greek recipes, as added by the Greek community, translated into English.",
+    "recipe_count": 12,
+    "preview_image_urls": [
+      "https://cookpad.github.io/global-mobile-hiring/images/recipes/42fb18a35e3727e0.jpg",
+      "https://cookpad.github.io/global-mobile-hiring/images/recipes/74e4ac3795576505efa5662f29c4b84a.jpg",
+      "https://cookpad.github.io/global-mobile-hiring/images/recipes/5b471f05408f051299bb00cdb043ad2d.jpg",
+      "https://cookpad.github.io/global-mobile-hiring/images/recipes/6947cc52c71f041c391b584ba4004c92.jpg"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "¡Hola Espana! 🇪🇸",
+    "description": "Authentic, Spanish recipes straight from Spain to you with love ❤️",
+    "recipe_count": 15,
+    "preview_image_urls": [
+
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Cook Lebanese 🇱🇧",
+    "description": "We offer you the flagship recipes of Lebanese cuisine! All recipes have been carefully selected, cooked, tasted and adjusted by our team to bring you a choice of reliable recipes that can easily be prepared by all. With these authentic recipes, the Lebanese cuisine enters your home! Enjoy and share!",
+    "recipe_count": 23,
+    "preview_image_urls": [
+      "https://cookpad.github.io/global-mobile-hiring/images/recipes/71b80db9121b1503.jpg",
+      "https://cookpad.github.io/global-mobile-hiring/images/recipes/6700d3ed9230789a.jpg",
+      "https://cookpad.github.io/global-mobile-hiring/images/recipes/0738add57cb0b64f.jpg",
+      "https://cookpad.github.io/global-mobile-hiring/images/recipes/13ccbd4e4b2957eb.jpg"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Cooking Basics 👩‍🍳",
+    "description": "Get back to the basics with these simple and delicious recipes",
+    "recipe_count": 12,
+    "preview_image_urls": [
+      "https://cookpad.github.io/global-mobile-hiring/images/recipes/7dfbfb0e6ee3c680.jpg",
+      "https://cookpad.github.io/global-mobile-hiring/images/recipes/07e8c57ed36a09e4.jpg",
+      "https://cookpad.github.io/global-mobile-hiring/images/recipes/1141e704fa411a0d.jpg",
+      "https://cookpad.github.io/global-mobile-hiring/images/recipes/45c44465ca8e69ad.jpg"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Top Picks 🥇",
+    "description": "Not sure what you are looking for? How about taking inspiration from some of our personal favorites!",
+    "recipe_count": 19,
+    "preview_image_urls": [
+      "https://cookpad.github.io/global-mobile-hiring/images/recipes/1ec8d98877f16979.jpg",
+      "https://cookpad.github.io/global-mobile-hiring/images/recipes/8f8a473a5bb0d725.jpg",
+      "https://cookpad.github.io/global-mobile-hiring/images/recipes/f4ffc009a9d55fe5.jpg",
+      "https://cookpad.github.io/global-mobile-hiring/images/recipes/4173512df411c319.jpg"
+    ]
+  }
+]
